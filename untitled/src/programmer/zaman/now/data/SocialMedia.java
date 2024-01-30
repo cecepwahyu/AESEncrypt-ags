@@ -4,11 +4,15 @@ class SocialMedia {
     String username;
 }
 
-final class Facebook extends SocialMedia {
-
+class Facebook extends SocialMedia {
+    final void login(String username, String password) {
+        //isi method
+    }
 }
 
 //tidak bisa mewarisi class final di atas
 //class Twitter extends Facebook {
-//
+//    void login (String username, String password) {
+//        //isi method
+//    }
 //}

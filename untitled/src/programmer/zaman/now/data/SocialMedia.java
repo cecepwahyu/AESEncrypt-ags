@@ -9,6 +9,6 @@ final class Facebook extends SocialMedia {
 }
 
 //tidak bisa mewarisi class final di atas
-class Twitter extends Facebook {
-
-}
+//class Twitter extends Facebook {
+//
+//}

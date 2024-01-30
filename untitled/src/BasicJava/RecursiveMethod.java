@@ -1,3 +1,5 @@
+package BasicJava;
+
 public class RecursiveMethod {
     public static void main(String[] args) {
         System.out.println(factorialLoop(5));

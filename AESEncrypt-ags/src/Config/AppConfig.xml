@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="DbHost">192.168.1.1</entry>
+    <entry key="DbPort">1111</entry>
+    <entry key="DbUser">mysql</entry>
+    <entry key="DbPassword">mysql</entry>
+</properties>

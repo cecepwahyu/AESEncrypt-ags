@@ -1,6 +1,5 @@
 import javax.crypto.*;
 import java.util.*;
-//import java.util.Base64;
 
 public class AES {
 

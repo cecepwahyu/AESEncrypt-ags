@@ -1,4 +1,4 @@
-package data;
+package programmer.zaman.now.data;
 
 public enum Level {
     STANDARD("Standard Level"),

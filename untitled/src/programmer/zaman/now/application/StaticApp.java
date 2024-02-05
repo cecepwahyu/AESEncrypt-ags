@@ -1,9 +1,9 @@
-package application;
+package programmer.zaman.now.application.application;
 
-import data.Application;
-import static data.Constant.*;
-import data.Country;
-import util.MathUtil;
+import programmer.zaman.now.data.Application;
+import static programmer.zaman.now.data.Constant.*;
+import programmer.zaman.now.data.Country;
+import programmer.zaman.now.util.MathUtil;
 
 public class StaticApp {
     public static void main(String[] args) {

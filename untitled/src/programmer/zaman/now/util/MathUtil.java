@@ -1,4 +1,4 @@
-package util;
+package programmer.zaman.now.util;
 
 public class MathUtil {
 

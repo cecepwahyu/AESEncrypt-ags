@@ -1,6 +1,6 @@
-package application;
+package programmer.zaman.now.application.application;
 
-import data.LoginRequest;
+import programmer.zaman.now.data.LoginRequest;
 
 public class RecordApp {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package application;
+package programmer.zaman.now.application.application;
 
-import data.Customer;
-import data.Level;
+import programmer.zaman.now.data.Customer;
+import programmer.zaman.now.data.Level;
 
 public class EnumApp {
     public static void main(String[] args) {

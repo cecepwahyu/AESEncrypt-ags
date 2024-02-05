@@ -1,8 +1,10 @@
 package programmer.zaman.now.application;
 
+import programmer.zaman.now.annotation.Fancy;
 import programmer.zaman.now.data.Animal;
 import programmer.zaman.now.data.Cat;
 
+@Fancy(name = "Animal App", tags = {"animal1, animal2"})
 public class AnimalApp {
     public static void main(String[] args) {
 

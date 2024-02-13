@@ -14,5 +14,7 @@ public class HashMapApp {
 
         System.out.println(map.get("name.first"));
 
+        //WeakHashMap
+
     }
 }
